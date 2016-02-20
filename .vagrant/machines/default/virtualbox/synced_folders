@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/laravel-project":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/laravel-project","hostpath":"/Users/edwardchan/Sites/laravel-project","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/edwardchan/Sites/laravel-project","disabled":false,"__vagrantfile":true}}}
